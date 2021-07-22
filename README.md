@@ -18,5 +18,5 @@ See the latest and/or most relevant `diff` file in the repository following the 
 
 # Authors
 
-* Brandon Harris <[bpharrs@pm.me](mailto:bpharrs@pm.me)>
+* Brandon Harris <[bpharris@pm.me](mailto:bpharris@pm.me)>
 
